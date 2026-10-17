@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "sama-dashboard",
+      "runtimeExecutable": "D:\\Python_ArcGisPro\\Nuevo_Dashboard\\.venv\\Scripts\\streamlit.exe",
+      "runtimeArgs": ["run", "D:\\Python_ArcGisPro\\Nuevo_Dashboard\\app.py", "--server.port", "8501"],
+      "port": 8501
+    }
+  ]
+}
